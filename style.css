@@ -1,0 +1,108 @@
+  *{
+    margin: 0;
+
+    padding: 0;
+
+}
+body{
+
+
+background-color: bisque;
+
+
+}
+
+.header-container{
+
+    max-width: 1000px;
+    background-color: rgb(140, 127, 152);
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.profile{
+width: 120px;
+height: 130px;
+border: 3px solid white ;
+border-radius: 50%;
+float:left;
+
+
+}
+
+.header-bio{ float: left;
+    padding: 35px;}
+
+h1,h2,h3,h4,h5,h6{color: rgb(29, 76, 138);}
+
+.header-contact a{
+    float: right;
+padding: 30px;
+}
+
+.header-contact a{ 
+ float: right;
+ text-decoration: none;
+ color: rgb(75, 101, 137);
+ font-weight: bold;
+}
+.header-contact a:hover{
+
+  text-decoration: underline;
+
+ color: crimson;
+
+}
+.div-clear{
+
+    clear: both;
+}
+
+hr{
+border: solid black 3px;
+width: 1000px;
+margin: 20 auto;
+border-bottom: none;
+}
+
+.content{
+    margin-bottom: 15px;
+
+}
+.h4{
+    margin: 30px;
+}
+
+.left_div{
+
+    width: 40%;
+    float: left;
+
+}
+
+.right_div{ width: 60%;
+           float: left;
+        
+}
+hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin:20px auto;
+}
+
+
+.bottom{
+
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.bottom{
+
+    color: white;
+
+    margin-top: 20px;
+}
